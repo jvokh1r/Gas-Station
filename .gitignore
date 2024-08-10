@@ -77,6 +77,10 @@ docs/_build/
 # PyBuilder
 target/
 
+Pipfile
+Pipfile.lock
+
+
 
 ### Django ###
 *.log
